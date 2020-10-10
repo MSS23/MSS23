@@ -6,7 +6,6 @@
 - 👯 I’m looking to build my skills whether it's collaborating with others or contributing more to Open Source Projects
 - 🥅 Goals: Be more active in within the community whether it's building projects for people to learn from or to acquire knowledge from others
 - ⚡ Fun fact: I host my own podcast and enjoy playing video games
-
 <br />
 
 ## Languages and Tools:
