@@ -5,7 +5,7 @@
 I’m a tech consultant turned digital creator building mobile and web apps while sharing the process on **TikTok**, **Instagram**, and long-form on **Substack**.
 
 My mission?  
-To **build, learn, and share** — showing what’s possible when you combine creativity, code, and curiosity.
+To **build, learn, and share** — showing what’s possible with AI when you combine creativity, code, and curiosity.
 
 ---
 
