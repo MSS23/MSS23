@@ -28,7 +28,7 @@ To **build, learn, and share** — showing what’s possible when you combine cr
 - **Languages**: Python, Java, C#, SQL, HTML/CSS  
 - **ML/AI**: Pandas, scikit-learn, TensorFlow, Keras  
 - **Data Tools**: Power BI, R Studio, Tidyverse  
-- **Web & Cloud**: Streamlit, Flask, Azure, Firebase  
+- **Web & Cloud**: Streamlit
 - **Platforms**: VS Code, GitHub, Terminal
 
 <p float="left">
