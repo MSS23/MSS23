@@ -1,30 +1,38 @@
-## Hi there, I'm Manny 👋
+## 👋 Hey, I’m Manraj Sidhu
 
-## I'm a Technology Consultant, Programmer and Lifelong learner!! 
+### 🚀 Digital Creator | Former PwC & IBM Tech Consultant | Builder in Public
 
-- 🌱 I’m currently looking to upskill in using AI and the use of Machine Learning techniques
-- 👯 I’m looking to build my skills whether it's collaborating with others or contributing more to Open Source Projects
-- 🥅 Goals: To take my projects and apply changes to them to ensure they are deployed similar to PoCs for clients, whether that be code is following certain guidelines, utilising the cloud etc.
-- ⚡ Fun fact: I host my podcast and enjoy playing video games
-<br />
+I’m a tech consultant turned digital creator building mobile and web apps while sharing the process on **TikTok**, **Instagram**, and long-form on **Substack**.
 
+My mission?  
+To **build, learn, and share** — showing what’s possible when you combine creativity, code, and curiosity.
 
-## Languages, Tools and Packages:
-- Python 
-- Python Pandas
-- Sklearn
-- Keras
-- Tensorflow
-- R Studio
-- Tidyverse
-- C#
-- Java
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+---
 
-<br />
-<br />
+### 🛠️ What I’m Doing Now
+- 🔤 Building 26 prototypes in 30 days — **A–Z App Series**
+- ✍️ Writing about tech, AI, and self-growth on [Substack](#) <!-- Add your Substack link here -->
+- 🎥 Creating content on [TikTok](https://www.tiktok.com/@manrajsidhubuilds) and [Instagram](https://www.instagram.com/manrajsidhubuilds)
+
+---
+
+### 💡 What I Care About
+- 🌱 Continuous learning through making
+- 🤝 Open source, transparency & creative collaboration
+- 🤖 Leveraging AI to build smarter apps and workflows
+- 🧠 Documenting both code and thought process — not just output
+
+---
+
+### 🧰 Languages, Tools & Tech I Use
+- **Languages**: Python, Java, C#, SQL, HTML/CSS  
+- **ML/AI**: Pandas, scikit-learn, TensorFlow, Keras  
+- **Data Tools**: Power BI, R Studio, Tidyverse  
+- **Web & Cloud**: Streamlit, Flask, Azure, Firebase  
+- **Platforms**: VS Code, GitHub, Terminal
+
+<p float="left">
+  <img alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explo
