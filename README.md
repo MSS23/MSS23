@@ -10,7 +10,7 @@ To **build, learn, and share** — showing what’s possible with AI when you co
 ---
 
 ### 🛠️ What I’m Doing Now
--     Launching Digital Agency Company Taking On New Clients!
+- Launching Digital Agency Company Taking On New Clients!
 - 🎥 Creating content on [Instagram](https://www.instagram.com/manrajssidhu)
 
 ---
