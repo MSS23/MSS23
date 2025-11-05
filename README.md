@@ -10,9 +10,8 @@ To **build, learn, and share** — showing what’s possible with AI when you co
 ---
 
 ### 🛠️ What I’m Doing Now
-- 🔤 Building 26 prototypes in 30 days — **A–Z App Series**
-- ✍️ Writing about tech, AI, and self-growth on [Substack](#) <!-- Add your Substack link here -->
-- 🎥 Creating content on [TikTok](https://www.tiktok.com/@manrajsidhubuilds) and [Instagram](https://www.instagram.com/manrajsidhubuilds)
+-     Launching Digital Agency Company Taking On New Clients!
+- 🎥 Creating content on [Instagram](https://www.instagram.com/manrajssidhu)
 
 ---
 
